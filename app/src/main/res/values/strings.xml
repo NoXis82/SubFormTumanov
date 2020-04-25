@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Подписка</string>
+    <string name="nameTextView">Имя пользователя</string>
+    <string name="nameEditText">Введите имя</string>
+    <string name="mailTextView">Электронная почта</string>
+    <string name="mailEditText">Адрес email</string>
+    <string name="subButton">OK</string>
+    <string name="clearButton">Очистить</string>
+    <string name="formTextView">Заполните форму для оформления подписки</string>
+    <string name="subText">Подписка на рассылку успешно оформлена для пользователя %s на электронный адрес %s</string>
+    <string name="errorTextView">Неверный формат электронного адреса!</string>
+</resources>

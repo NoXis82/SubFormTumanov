@@ -1,0 +1,2 @@
+rootProject.name='SubForm'
+include ':app'
